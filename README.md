@@ -19,10 +19,10 @@ npm run dev
 reddis-commander -> Este se inicia en http://127.0.0.1:8081
 ```
 
-### 5) Acceder a las URL
+### 5) Acceder a las URL (Utilizando GET)
 ```
-GET http://localhost:3000/character
+http://localhost:3000/character
 ```
 ```
-GET http://localhost:3000/character/1
+http://localhost:3000/character/1
 ```
